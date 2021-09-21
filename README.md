@@ -10,3 +10,4 @@ https://programmers.co.kr/skill_check_assignments/67
 
 - 초기에 부여된 자전거의 중간값 이하로 자전거 보유량이 하락했을 경우, 주변의 자전거 대여소에서 끌고오는 접근 방식
 
+- HotPlace에 대한 추가적인 로직 
